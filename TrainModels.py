@@ -213,8 +213,7 @@ def save_results_txt(fileName, row):
    result.close()
 
 if __name__ == "__main__":  
-    # fileName = 'data_1572797712.5343833.csv'
-    fileName = "data_1572818948.438076.csv"
+    fileName = "extracted_features_data_5_emotions.csv"
     data=[]
     labels=[]    
 
